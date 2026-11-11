@@ -3,7 +3,22 @@ guid: bde47d1786daed740a31905396d0b414
 ModelImporter:
   serializedVersion: 24200
   internalIDToNameTable: []
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cristal.001
+    second: {fileID: 2100000, guid: caa8050998eb1d2419e6b8e18978f453, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Superficie
+    second: {fileID: 2100000, guid: f792eb518e7237c4f86ce88f57ca0ddf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wire_228214153
+    second: {fileID: 2100000, guid: e9f766d57bdc98849941f054b45e0423, type: 2}
   materials:
     materialImportMode: 2
     materialName: 0
